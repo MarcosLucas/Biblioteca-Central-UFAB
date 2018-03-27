@@ -6,7 +6,7 @@ package model;
  *
  */
 public class Livro {
-// área (do conhecimento)	tema (subárea).
+
 	private String titulo;
 	private int iSBN;
 	private String autor;
